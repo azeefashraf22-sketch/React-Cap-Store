@@ -35,7 +35,7 @@ function AppLayout() {
 function Routing() {
     return (
 
-        <BrowserRouter basename="/React-Cap-Store">
+        <BrowserRouter>
             <AppLayout />
         </BrowserRouter>
     )
