@@ -83,6 +83,7 @@ function ProductCard({ id, title, price, image }) {
           font-size: 15px;
           cursor: pointer;
           transition: 0.3s;
+          font-family: 'Poppins', sans-serif;
         }
 
         .add-to-cart:hover {

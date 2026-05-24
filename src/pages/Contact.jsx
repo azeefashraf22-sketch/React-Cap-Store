@@ -72,6 +72,7 @@ function Contact() {
           border: 1px solid #ddd;
           border-radius: 6px;
           outline: none;
+          font-family: 'Poppins', sans-serif;
         }
 
         .input-group input:focus { border-color: #e67e22; }
@@ -86,6 +87,7 @@ function Contact() {
           font-weight: 600;
           cursor: pointer;
           transition: 0.3s;
+          font-family: 'Poppins', sans-serif;
         }
 
         .send-btn:hover { background: #e67e22; }

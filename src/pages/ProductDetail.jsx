@@ -30,7 +30,8 @@ function ProductDetail() {
           border: "none",
           borderRadius: "8px",
           fontWeight: "700",
-          cursor: "pointer"
+          cursor: "pointer",
+          fontFamily: "Poppins, sans-serif"
         }}>Add to Cart</button>
       </div>
     </div>
