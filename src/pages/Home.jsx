@@ -5,6 +5,17 @@ function Home() {
   return (
     <>
       <style>{`
+
+         * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+        }
+
+        html, body {
+          width: 100%;
+          overflow-x: hidden;
+        }
         .home-container {
           font-family: 'Poppins', sans-serif;
           color: #222;
@@ -124,7 +135,7 @@ function Home() {
 
       <div className="home-container">
 
-        
+
         <section className="hero">
           <h1>Upgrade Your Style</h1>
           <p>Discover our exclusive collection of premium caps designed for comfort and trend.</p>
@@ -160,7 +171,7 @@ function Home() {
               products.map((item) => (
                 <ProductCard
                   key={item.id}
-                  id={item.id}     
+                  id={item.id}
                   title={item.title}
                   price={item.price}
                   image={item.image}
