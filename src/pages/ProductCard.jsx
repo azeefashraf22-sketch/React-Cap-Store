@@ -79,7 +79,7 @@ function ProductCard({ id, title, price, image }) {
           color: #fff;
           border: none;
           border-radius: 8px;
-          font-weight: 700;
+          font-weight: 500;
           font-size: 15px;
           cursor: pointer;
           transition: 0.3s;

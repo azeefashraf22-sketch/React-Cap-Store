@@ -29,7 +29,7 @@ function ProductDetail() {
           color: "white",
           border: "none",
           borderRadius: "8px",
-          fontWeight: "700",
+          fontWeight: "500",
           cursor: "pointer",
           fontFamily: "Poppins, sans-serif"
         }}>Add to Cart</button>
