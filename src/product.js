@@ -39,4 +39,9 @@ export const products = [{
     title: 'Beret',
     price: 500,
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeavI6SvkPL_bI_e1P_sjFjfK8LDUMtzyv1w&s'
+}, {
+    id: 8,
+    title: 'Panama Hat',
+    price: 900,
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXW2Q9WeshcbdapU65FmBZHJc6d6tNVXsxdrcpzaFfAA&s'
 }]
