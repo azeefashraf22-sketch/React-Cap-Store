@@ -44,4 +44,9 @@ export const products = [{
     title: 'Panama Hat',
     price: 900,
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXW2Q9WeshcbdapU65FmBZHJc6d6tNVXsxdrcpzaFfAA&s'
+}, {
+    id: 9,
+    title: 'Nike Pro Snapback',
+    price: 1000,
+    image: 'https://www.dtlr.com/cdn/shop/files/jordan_FV5296_20412033.jpg?v=1775588043'
 }]
