@@ -102,26 +102,26 @@ function About() {
 
         <div className="about-grid">
           <div className="about-image">
-            <img 
-              src="https://images.unsplash.com/photo-1575428652377-a2d80e2277fc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
-              alt="Cap Store Workshop" 
+            <img
+              src="https://images.unsplash.com/photo-1575428652377-a2d80e2277fc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+              alt="Cap Store Workshop"
             />
           </div>
-          
+
           <div className="about-text">
             <h2>The Quality You Deserve</h2>
             <p>
-              At CapStore, we believe that a cap is more than just an accessory—it's a statement. 
-              Founded in Karachi, we started with a simple mission: to provide high-quality, 
+              At CapStore, we believe that a cap is more than just an accessory—it's a statement.
+              Founded in Karachi, we started with a simple mission: to provide high-quality,
               durable, and trendy headwear for everyone.
             </p>
             <p>
-              Every single cap in our collection is crafted with premium materials and 
-              tested for comfort. Whether you're hitting the streets or the gym, 
+              Every single cap in our collection is crafted with premium materials and
+              tested for comfort. Whether you're hitting the streets or the gym,
               our caps are designed to fit your lifestyle perfectly.
             </p>
             <p>
-              Thank you for being part of our journey. We continue to innovate and 
+              Thank you for being part of our journey. We continue to innovate and
               bring you the latest trends in the world of caps.
             </p>
           </div>
